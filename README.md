@@ -13,5 +13,3 @@ Disediakan dataset daftar film beserta rating yang diberikan oleh penonton.
 2. Dengan memanfaatkan dataset tersebut, buatlah sebuah file notebook (_.ipynb_) berisi sebuah __collaborative filtering recommendation system__, kemudian berikan __rekomendasi 5 judul film__ kepada user berikut:
 
     - Widodo sangat menyukai film drama komedi, salah satunya bertajuk _**Being Flynn (2012)**_.
-
-✅ _Commit & push source code jawaban soal ini ke __Github__ Anda, buatlah repo dengan nama __Film Bagus__, kemudian lampirkan __url link repo Github__ Anda via email ke lintang@purwadhika.com!_
